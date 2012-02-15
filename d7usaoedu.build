@@ -8,7 +8,7 @@ projects[drupal][download][type] = "get"
 projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-7.12.tar.gz"
 
 
-; Copy of mig5_profiler
-projects[mig5_profiler][type] = "profile"
-projects[mig5_profiler][download][type] = "git"
-projects[mig5_profiler][download][url] = "git://github.com/cdracars/d7usaoedu_platform.git"
+; Copy of d7usaoedu_platform
+projects[d7usaoedu_platform][type] = "profile"
+projects[d7usaoedu_platform][download][type] = "git"
+projects[d7usaoedu_platform][download][url] = "git://github.com/cdracars/d7usaoedu_platform.git"
