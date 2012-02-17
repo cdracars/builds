@@ -11,4 +11,4 @@ projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-7
 ; Copy of d7usaoedu_platform
 projects[d7usaoedu_platform][type] = "profile"
 projects[d7usaoedu_platform][download][type] = "git"
-projects[d7usaoedu_platform][download][url] = "git://github.com/cdracars/d7usaoedu_profile.git"
+projects[d7usaoedu_platform][download][url] = "git://github.com/cdracars/d7usaoedu_prof.git"
